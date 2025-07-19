@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_minipillarsleep",
+  "eventList": [],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_minipillarwoke","path":"objects/obj_minipillarwoke/obj_minipillarwoke.yy",},"propertyId":{"name":"isWoke","path":"objects/obj_minipillarwoke/obj_minipillarwoke.yy",},"value":"false",},
+  ],
+  "parent": {
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+  },
+  "parentObjectId": {
+    "name": "obj_minipillarwoke",
+    "path": "objects/obj_minipillarwoke/obj_minipillarwoke.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 0,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "spr_minipillarsleep",
+    "path": "sprites/spr_minipillarsleep/spr_minipillarsleep.yy",
+  },
+  "spriteMaskId": null,
+  "tags": [
+    "Standard Level Asset",
+  ],
+  "visible": true,
+}
