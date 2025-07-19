@@ -15,7 +15,8 @@ This repository contains a work-in-progress decompilation of the "Sugary Spire: 
 Once the required software is installed:
 
 1. Open the project in **GameMaker** as you would any other.  
-2. Press **F5** to build and run or **F6** to debug.  
+2. add the sound folder from the original into **/datafiles/sound** 
+3. Press **F5** to build and run or **F6** to debug.  
 3. If there is a crash related to **FMOD**, this is completely normal.  
    You just need to copy the `api` folder from the FMOD installation directory to your project folder.  
 
